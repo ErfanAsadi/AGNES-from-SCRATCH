@@ -1,6 +1,5 @@
-# Second Assignment
-# Author : Erfan Asadi - 950122680021
 
+# Author : Erfan Asadi 
 # Libraries
 import numpy as np
 import pandas as pd
